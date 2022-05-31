@@ -15,7 +15,7 @@ Doks Coders Portfolio Page is available at github, You can clone it with this co
 
 ```
 // with git
-git clone https://github.com/Guonnie/Doks-Coders-Portfolio.git
+git clone https://github.com/doks-coders/Doks-Coders-Portfolio.git
 ```
 
 ## Install Packages
