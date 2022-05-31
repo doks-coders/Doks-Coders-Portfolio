@@ -1,0 +1,10 @@
+body {
+    min-width: 1280px !important;
+    background-color: #EDF0F2;
+  }
+  @font-face {
+    font-family: "Adevale";
+    src: local("Adevale"),
+     url("./Fonts/Adevale/Adevale.ttf") format("truetype");
+    font-weight: bold;
+    }
