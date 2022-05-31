@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/primereact.svg)](https://badge.fury.io/js/primereact)
 [![Actions CI](https://github.com/primefaces/primereact/workflows/NodeJS%20CI/badge.svg)](https://github.com/primefaces/primereact/actions/workflows/node.js.yml)
 
-[![PrimeReact Hero](https://firebasestorage.googleapis.com/v0/b/medical-app-e829e.appspot.com/o/DaventyPreview.png?alt=media&token=7da772e1-6814-4899-968a-f4321b016c9b)](https://daventy-agency.herokuapp.com/)
+[![PrimeReact Hero](https://firebasestorage.googleapis.com/v0/b/medical-app-e829e.appspot.com/o/Screenshot%20(762).png?alt=media&token=6e441024-568d-427c-950f-71591d5955e2)](https://daventy-agency.herokuapp.com/)
 
 # Doks Coders Portfolio Page
 
